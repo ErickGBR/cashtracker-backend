@@ -1,0 +1,28 @@
+{
+  "name": "chashtracker-backend",
+  "version": "1.0.0",
+  "description": "is a financial personal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickGBR/cashtracker-backend.git"
+  },
+  "keywords": [
+    "cashtracker",
+    "typescript",
+    "express",
+    "node.js",
+    "jwt",
+    "sequelize",
+    "mongodb"
+  ],
+  "author": "Erick Burgos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErickGBR/cashtracker-backend/issues"
+  },
+  "homepage": "https://github.com/ErickGBR/cashtracker-backend#readme"
+}
